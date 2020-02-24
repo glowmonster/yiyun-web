@@ -1,0 +1,23 @@
+{
+  "id": "1551812",
+  "name": "yiyun",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1110426",
+      "name": "音乐",
+      "font_class": "yinle",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "5394549",
+      "name": "voice",
+      "font_class": "voice",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    }
+  ]
+}
